@@ -1,2 +1,4 @@
-# .github
-Samsung Galaxy a05s Github
+# TWRP RELEASES
+- [A057F]()
+- [AOF7G]()
+- [A057M]()
